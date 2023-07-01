@@ -57,7 +57,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #748ec6;
+  background: #1D9A6C;
   color: #fff;
 }
 
@@ -176,7 +176,7 @@ h6 {
 
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
-  background: #748ec6;
+  background: #1D9A6C;
   color: #fff;
 }
 
@@ -825,7 +825,7 @@ section {
 }
 
 .pricing .get-started-btn:hover {
-  background: #1D9A6C;
+  background: #24bd85;
 }
 
 .pricing .featured {
@@ -838,7 +838,7 @@ section {
 }
 
 .pricing .featured .get-started-btn:hover {
-  background: #748ec6;
+  background: #24bd85;
 }
 
 @media (max-width: 992px) {
